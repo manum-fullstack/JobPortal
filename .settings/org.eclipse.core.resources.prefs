@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/jobportal/controller/AdminDashboardServlet.java=UTF-8
+encoding//src/main/java/com/jobportal/controller/LoginServlet.java=UTF-8
+encoding//src/main/java/com/jobportal/controller/SignupServlet.java=UTF-8
+encoding//src/main/java/com/jobportal/controller/UserDashboardServlet.java=UTF-8
+encoding//src/main/java/com/jobportal/dao/JobDAO.java=UTF-8
+encoding//src/main/java/com/jobportal/filter/GuestFilter.java=UTF-8
+encoding//src/main/java/com/jobportal/model/Application.java=UTF-8
+encoding//src/main/webapp/WEB-INF/user/dashboard.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/user/jobs.jsp=UTF-8
+encoding/<project>=windows-1252
